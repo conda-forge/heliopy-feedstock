@@ -9,8 +9,7 @@ Feedstock license: BSD 3-Clause
 
 Summary: Python for space physics
 
-HelioPy is a package for automatically downloading and reading in common
-data files used in space physics.
+HelioPy is a package for heliospheric and planetary phsyics.
 
 
 Current build status
