@@ -1,6 +1,6 @@
 {% set name = "HelioPy" %}
-{% set version = "0.5.2" %}
-{% set sha256 = "aa45006f40bb686a2a47df4e286919cd3ca27670b2b2e931d7fcff1ac1e76f0d" %}
+{% set version = "0.5.3" %}
+{% set sha256 = "b834736654529e5f525e59854de60c26d1468faf08348e7eeac6e560c92497f2" %}
 
 package:
   name: {{ name|lower }}
@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 2
+  number: 0
   script: python -m pip install --no-deps --ignore-installed .
   noarch: python
 
