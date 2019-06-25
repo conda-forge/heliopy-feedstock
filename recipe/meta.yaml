@@ -1,6 +1,6 @@
 {% set name = "HelioPy" %}
-{% set version = "0.7.1" %}
-{% set sha256 = "3721cdcb751f50c8de39575314710529db953623c3d028176c624e5524cb7300" %}
+{% set version = "0.8.0" %}
+{% set sha256 = "b24dc9fcc908d3ce4dd77135c2e74130502798bf0b226b97a37396bb1eab05cb" %}
 
 package:
   name: {{ name|lower }}
