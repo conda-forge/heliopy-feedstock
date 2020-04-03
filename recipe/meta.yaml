@@ -1,6 +1,6 @@
 {% set name = "HelioPy" %}
-{% set version = "0.10.0" %}
-{% set sha256 = "1a4ed57916517465e7388e65420f4de55df478706b18ab90fc724624797710c7" %}
+{% set version = "0.10.1" %}
+{% set sha256 = "18970a9708bc31da5cded3e3021dca6ebe5a252cbc11e2d44d92b0c19f916824" %}
 
 package:
   name: {{ name|lower }}
@@ -33,7 +33,7 @@ about:
   license: GPL-3.0
   license_family: GPL
   license_file: LICENSE
-  summary: 'Python for space physics'
+  summary: Python for space physics
   description: |
     HelioPy is a package for heliospheric and planetary phsyics.
   doc_url: http://docs.heliopy.org/en/stable/
