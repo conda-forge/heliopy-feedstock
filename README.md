@@ -3,13 +3,13 @@ About heliopy
 
 Home: http://heliopy.org/
 
-Package license: GPL-3.0
+Package license: GPL-3.0-only
 
 Feedstock license: BSD-3-Clause
 
-Summary: Python for space physics
+Summary: Python for heliospheric physics
 
-HelioPy is a package for heliospheric and planetary phsyics.
+Tools to work with 1D in-situ timeseries measurements of space plasmas.
 
 
 Current build status
