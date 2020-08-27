@@ -12,7 +12,7 @@ source:
   sha256: {{ sha256 }}
 
 build:
-  number: 0
+  number: 1
   script: {{ PYTHON }} -m pip install . --no-deps -vv
   noarch: python
 
@@ -30,12 +30,12 @@ test:
 
 about:
   home: http://heliopy.org/
-  license: GPL-3.0
+  license: GPL-3.0-only
   license_family: GPL
   license_file: LICENSE
-  summary: Python for space physics
+  summary: Python for heliospheric physics
   description: |
-    HelioPy is a package for heliospheric and planetary phsyics.
+    Tools to work with 1D in-situ timeseries measurements of space plasmas.
   doc_url: http://docs.heliopy.org/en/stable/
   dev_url: https://github.com/heliopython/heliopy
 
