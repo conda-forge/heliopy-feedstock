@@ -5,9 +5,13 @@ Home: http://heliopy.org/
 
 Package license: GPL-3.0-only
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/heliopy-feedstock/blob/master/LICENSE.txt)
 
 Summary: Python for heliospheric physics
+
+Development: https://github.com/heliopython/heliopy
+
+Documentation: http://docs.heliopy.org/en/stable/
 
 Tools to work with 1D in-situ timeseries measurements of space plasmas.
 
